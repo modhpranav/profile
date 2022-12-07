@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on using FastAPI and ML model from scratch to deployement.
-- 🌱 I’m currently learning ML models of regression and classification with SVM.
+- 🔭 I’m currently studying Master of Science in Computer Science from University of Massachusetts.
+- 🌱 I’m having three years of work experience with various python frameworks, data engineering and dev ops.
 - 👯 I’m looking to collaborate on Data science projects from scratch to production.
-- 🤔 I’m looking for help with ML models and optimization.
+- 🤔 I’m looking for Summer Internship in United States.
 - 💬 Ask me about ML/DS, web scrapping, pre-processing, EDA etc...
 - 📫 How to reach me: modhpranav21@gmail.com
 
