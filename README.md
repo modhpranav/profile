@@ -12,3 +12,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ML/DS, web scrapping, pre-processing, EDA etc...
 - 📫 How to reach me: modhpranav21@gmail.com
 
+## MY Python/Machine Learning Projects:
+<li>
+  <ol> <a href="https://github.com/pranav-modh/AML_Project" title="Facial Emotions Detection">Human Emotions Detection</a> </ol>
+  <ol> <a href="https://github.com/pranav-modh/AML_Project" title="Facial Emotions Detection">Human Emotions Detection</a> </ol>
+</li>
