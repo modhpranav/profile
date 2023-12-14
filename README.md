@@ -1,28 +1,24 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**pranav-modh/pranav-modh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently pursuing a Master of Science in Computer Science from the University of Massachusetts, expecting graduation in May 2024.
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently studying Master of Science in Computer Science from University of Massachusetts.
-- 🌱 I’m having three years of work experience with various python frameworks, data engineering and dev ops.
-- 👯 I’m looking to collaborate on Data science projects from scratch to production.
-- 🤔 I’m looking for Summer Internship in United States.
-- 💬 Ask me about ML/DS, web scrapping, pre-processing, EDA etc...
-- 📫 How to reach me: modhpranav21@gmail.com
+💼 Three years of professional experience in Python frameworks, data engineering, and DevOps.
+
+🤝 Interested in collaborating on end-to-end Data Science projects, from inception to deployment.
+
+🔍 Actively seeking Full-time Job opportunities in the United States.
+
+💬 Ask me about Machine Learning/Data Science, web scraping, pre-processing, and Exploratory Data Analysis (EDA).
+
+📧 Reach me at: modhpranav21@gmail.com
 
 ## Python/Machine Learning Projects:
-<ol>
-  <li> <a href="https://github.com/pranav-modh/AML_Project" title="Facial Emotions Detection">Human Emotions Detection</a> </li>
-  <li> <a href="https://github.com/pranav-modh/familytree-drf/tree/develop" title="Creating A Family Tree Using Recursion">Family Tree Using Recursion in DRF Framework</a></li>
-  <li> <a href="https://github.com/pranav-modh/spacy-and-fastapi" title="FastAPI and Spacy Integration">Using FastAPI framework and Spacy fetch details from Paragraph</a></li>
-  <li> <a href="https://github.com/pranav-modh/flaskapi" title="FlaskAPP and deployment on Heroku">FlaskAPP and its deployment</a></li>
-  <li> <a href="https://github.com/pranav-modh/project-allocation" title="Project Allocation System">Project Allocation System Using Django Framework</a></li>
-</ol>
+- [Human Emotions Detection](https://github.com/pranav-modh/AML_Project): Detecting facial emotions.
+- [Family Tree Using Recursion in DRF Framework](https://github.com/pranav-modh/familytree-drf/tree/develop): Creating a family tree with recursion in Django REST Framework.
+- [Using FastAPI framework and Spacy](https://github.com/pranav-modh/spacy-and-fastapi): Integrating FastAPI framework and Spacy for text analysis.
+- [FlaskAPP and its deployment on Heroku](https://github.com/pranav-modh/flaskapi): Developing a Flask app and deploying it on Heroku.
+- [Project Allocation System Using Django Framework](https://github.com/pranav-modh/project-allocation): Managing project allocations in Django.
 
-## JAVA Programming:
-<ol>
-  <li> <a href="https://github.com/pranav-modh/CS680" title="CS680">CS680</a></li>
-  <li> <a href="https://github.com/pranav-modh/CS681" title="CS681">CS681</a></li>
-</ol>
+## JAVA Programming Projects:
+- [CS680](https://github.com/pranav-modh/CS680): Java project - CS680.
+- [CS681](https://github.com/pranav-modh/CS681): Java project - CS681.
