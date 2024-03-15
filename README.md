@@ -4,7 +4,7 @@
 
 🤝 Working on exciting personal project of revolutionizing job seeking experience with lot more to come. (Initial Release - [Check it out](http://13.233.142.200/))
 
-💼 Over Three years of professional experience in Python frameworks, data engineering, and DevOps.
+💼 Over Three years of professional experience in Python frameworks, Java (SpringBoot), data engineering, and DevOps.
 
 🤝 Interested in collaborating on end-to-end Data Engineering projects, from inception to deployment.
 
@@ -100,6 +100,7 @@
 ## Ongoing Projects:
 - [Extension for Skill identifier](https://github.com/modhpranav/skills-highlighter-extension): Get to Know matching skills from your resume and job description.
 - [Resume Parser](https://github.com/modhpranav/resume-parser): Parse Resume and fetch skills (Just like ATS scanner, but more than that :D)
+- [Job Parser from Web](https://github.com/modhpranav/JobCollectionPipeline): Parse Job listings from various sources and feed to processing using Java, Python, Kafka.
 
 
 ## Python Programming Projects:
