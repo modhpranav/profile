@@ -112,5 +112,5 @@
 - [Many More . . .(Some are very exciting forks!!)](https://github.com/modhpranav?tab=repositories)
 
 ## JAVA Programming Projects:
-- [CS680](https://github.com/pranav-modh/CS680): Java project - CS680.
-- [CS681](https://github.com/pranav-modh/CS681): Java project - CS681.
+- [CS680](https://github.com/pranav-modh/CS680): Java project - Advanced Java (Design Patterns).
+- [CS681](https://github.com/pranav-modh/CS681): Java project - Advanced Java (Multithreading and Concurrency, StreamAPI, Lambda Expressions and Functional Programming).
